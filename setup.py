@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 setup(
     name='django-view-acl',
     version='0.1',
-    packages=['view-acl'],
+    packages=['view_acl'],
     include_package_data=True,
     license='Apache License',
     description='Views ACL plugin is a Django app to provide method for automatic permissions generation based on urlpatterns in urls.py',
