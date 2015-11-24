@@ -5,8 +5,6 @@ Django Views ACL plugin
 Views ACL plugin is a Django app to provide method for automatic permissions
 generation based on urlpatterns in urls.py
 
-Detailed documentation is in the "docs" directory.
-
 Quick start
 -----------
 
