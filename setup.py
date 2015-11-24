@@ -12,7 +12,7 @@ setup(
     version='0.1',
     packages=['view-acl'],
     include_package_data=True,
-    license='Apache License',  # example license
+    license='MIT',  # example license
     description='Views ACL plugin is a Django app to provide method for automatic permissions generation based on urlpatterns in urls.py',
     long_description=README,
     classifiers=[
